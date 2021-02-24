@@ -9,11 +9,11 @@ Actual mente estudiante del TecTijuana:
 
 🤔 Considero GitHub la herramienta excelente para el nuevo ingeniero.
 
-💬 Invito a los nuevos y futuros estudiantes para usarlo
+💬 Actual mente aprendiendo a como desarrollar proyectos de paginas web,aplicaciones moviles,....
 
-📫 Todo inicia con activarlo via GitHub Starter pack son unos 70 dlls de beca por comprobar con correo institucional
+😄 En busca de experiencia y conocimiento 😄 
 
-😄 Y con Github Classroom apoyar al estudiante para ser efectivo en lo requerido para producir resultados al momento y diversificar en los sistemas desktop, cloud computing y embedded
+📫 Invitando a todos los nuevos desarrolladores a usar usar esta plataforma
 
 ⚡ Sabias: Actual mente busco aprender mas sobre el marketing de ISC !
 
