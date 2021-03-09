@@ -22,8 +22,8 @@ Actual mente estudiante del TecTijuana:
 
 | Project State  | Icon |
 |----------------|:----:|
-| In Development |<img src="![monitor-screen](https://user-images.githubusercontent.com/79510480/110404952-a9c75600-8034-11eb-8555-28376e0bb428.png)">|
-| In Progress    |<img src="![challenges](https://user-images.githubusercontent.com/79510480/110405039-cebbc900-8034-11eb-8c17-36df714e0b4a.png)">|
+| In Development |![monitor-screen](https://user-images.githubusercontent.com/79510480/110405181-06c30c00-8035-11eb-9f4b-f6981e5c546d.png)>|
+| In Progress    |![challenges](https://user-images.githubusercontent.com/79510480/110405203-117da100-8035-11eb-8e1d-63ccefa9ca1e.png)|
 | Completed      |<img src="/images/http://i.stack.imgur.com/wlvw7.png">|
 
 
