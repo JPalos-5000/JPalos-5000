@@ -22,9 +22,9 @@ Actual mente estudiante del TecTijuana:
 
 <table style="width: 100%; text-align: center;">
   <tr>
-    <td style="width: 33%;">Primera columna</td>
-    <td style="width: 33%;">Segunda columna</td>
-    <td style="width: 33%;">Tercera columna</td>
+    <td style="width: 33%;">![LOGO-TecNM-VERTICAL_DIGITAL-Azul](https://user-images.githubusercontent.com/79510480/110404062-0aee2a00-8033-11eb-8233-9d54ed3422be.jpg)</td>
+    <td style="width: 33%;">![SISTEMAS-COMPUTACIONALES_LOGOTIPO](https://user-images.githubusercontent.com/79510480/110404126-2822f880-8033-11eb-8e23-4dcc22bca1b5.png)</td>
+    <td style="width: 33%;">![desarrollo-software](https://user-images.githubusercontent.com/79510480/110404270-691b0d00-8033-11eb-9393-527be6401090.png)</td>
   </tr>
   <tr>
     <td colspan="3" style="width: 100%; padding-top: 50px;">Más contenido</td>
