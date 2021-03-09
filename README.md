@@ -20,7 +20,7 @@ Actual mente estudiante del TecTijuana:
 ⚡ Sabias: Actual mente busco aprender mas sobre el marketing de ISC !
 
 
-| Project State  | Icon |
+| How i describe myself        | Icon |
 |----------------|:----:|
 | software development trainee |![programming](https://user-images.githubusercontent.com/79510480/110405660-c1eba500-8035-11eb-9916-317398313eb1.png)|
 | Student                      |![graduated](https://user-images.githubusercontent.com/79510480/110405676-c7e18600-8035-11eb-9645-e3b776ed7a8b.png)|
