@@ -20,20 +20,11 @@ Actual mente estudiante del TecTijuana:
 ⚡ Sabias: Actual mente busco aprender mas sobre el marketing de ISC !
 
 
-<table style="width: 100%; text-align: center;">
-  <tr>
-    <td style="width: 33%;">![LOGO-TecNM-VERTICAL_DIGITAL-Azul](https://user-images.githubusercontent.com/79510480/110404062-0aee2a00-8033-11eb-8233-9d54ed3422be.jpg)</td>
-    <td style="width: 33%;">![SISTEMAS-COMPUTACIONALES_LOGOTIPO](https://user-images.githubusercontent.com/79510480/110404126-2822f880-8033-11eb-8e23-4dcc22bca1b5.png)</td>
-    <td style="width: 33%;">![desarrollo-software](https://user-images.githubusercontent.com/79510480/110404270-691b0d00-8033-11eb-9393-527be6401090.png)</td>
-  </tr>
-  <tr>
-    <td colspan="3" style="width: 100%; padding-top: 50px;">Más contenido</td>
-  </tr>
-  <tr>
-    <td  colspan="3" style="width: 100%; padding-top: 50px;">Pie de página</td>
-  </tr>
-</table>
-
+| Project State  | Icon |
+|----------------|:----:|
+| In Development |<img src="/images/http://i.stack.imgur.com/0a2rs.png">|
+| In Progress    |<img src="/images/http://i.stack.imgur.com/g9uuh.png" style="background-color: transparent;">|
+| Completed      |<img src="/images/http://i.stack.imgur.com/wlvw7.png">|
 
 
 <!--
