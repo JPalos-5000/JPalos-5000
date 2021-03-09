@@ -1,4 +1,6 @@
 ### Hola colegas 👋
+![programacion-2-e1551291144973](https://user-images.githubusercontent.com/79510480/110403647-50f6be00-8032-11eb-9eec-6845842a989f.jpg)
+
 Gusto de visitar el perfil del Alumno 👨‍🏫 ✨ Palos Jesus ✨.
 
 Actual mente estudiante del TecTijuana:
@@ -17,7 +19,13 @@ Actual mente estudiante del TecTijuana:
 
 ⚡ Sabias: Actual mente busco aprender mas sobre el marketing de ISC !
 
-![programacion-2-e1551291144973](https://user-images.githubusercontent.com/79510480/110403647-50f6be00-8032-11eb-9eec-6845842a989f.jpg)
+
+| TITULO1| TITULO2|
+
+| ----- | ---- |
+
+| CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |
+
 
 
 <!--
